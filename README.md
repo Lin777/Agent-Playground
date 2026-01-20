@@ -25,3 +25,13 @@ Each topic or course is organized in its own folder, with a dedicated README exp
 
 - This repository is continuously evolving.
 - The code and notebooks are learning-oriented, not production-ready.
+
+---
+
+## Gestión de dependencias
+
+Este proyecto utiliza `uv` y `pyproject.toml` para la gestión de Python y dependencias.
+
+Las dependencias están organizadas en *dependency groups*.
+
+👉 **Consulta el `README.md` dentro de cada carpeta** para conocer qué grupos necesitas instalar.

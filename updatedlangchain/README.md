@@ -10,3 +10,11 @@ This folder contains notebooks created while following recent LangChain courses 
 
 ## Notes
 Notebooks are ordered to follow the learning sequence.
+
+## Instalación
+
+Desde la raíz del proyecto:
+
+```bash
+uv sync
+```

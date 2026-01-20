@@ -13,3 +13,10 @@ dependencies = [
     "langchain-openai>=1.1.7",
     "python-dotenv>=1.2.1",
 ]
+
+[dependency-groups]
+rag = [
+    "openai>=2.15.0",
+    "pymongo>=4.16.0",
+    "pypdf>=6.6.0",
+]
