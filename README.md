@@ -28,10 +28,10 @@ Each topic or course is organized in its own folder, with a dedicated README exp
 
 ---
 
-## Gestión de dependencias
+## Dependencies Management
 
-Este proyecto utiliza `uv` y `pyproject.toml` para la gestión de Python y dependencias.
+This project uses `uv` and `pyproject.toml` for Python and dependency management.
 
-Las dependencias están organizadas en *dependency groups*.
+Dependencies are organized into *dependency groups*.
 
-👉 **Consulta el `README.md` dentro de cada carpeta** para conocer qué grupos necesitas instalar.
+👉 **Check the `README.md` inside each folder** to know which groups you need to install.
